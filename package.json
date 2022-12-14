@@ -1,0 +1,16 @@
+{
+  "name": "capital-json-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": "git@github.com:koichirokudo/capital-json-server.git",
+  "author": "koichirokudo <koichirokudo746@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "json-server": "^0.17.1"
+  }
+}
