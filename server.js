@@ -14,8 +14,6 @@ const authUser = {
   userName: "Koichiro Kudo",
   password: "test",
   cancel: "FALSE",
-  create_at: "2022-12-01-11:00:01",
-  update_at: "2022-12-01-11:00:01",
 };
 
 server.use(cookieParser());
