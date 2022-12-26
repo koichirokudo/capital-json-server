@@ -8,12 +8,13 @@ const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 8000;
 const authUser = {
-  userId: "1",
-  groupId: "1",
-  authType: "0",
-  userName: "Koichiro Kudo",
+  userId: 1,
+  groupId: 1,
+  authType: 0,
+  username: "Koichiro Kudo",
   password: "test",
-  cancel: "FALSE",
+  email: "example@example.com",
+  cancel: false,
 };
 
 server.use(cookieParser());
