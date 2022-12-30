@@ -31,6 +31,7 @@
   "groups": [
     {
       "id": 1,
+      "groupName": "group01",
       "participants": 2,
       "inviteId": "8flakdsfhaidfyasfkldjpad$&YJ",
       "startDay": 1,
@@ -39,6 +40,7 @@
     },
     {
       "id": 2,
+      "groupName": "group02",
       "participants": 3,
       "inviteId": "f9adpdfdfjadaads8fh;gd7$&YJ",
       "startDay": 1,
