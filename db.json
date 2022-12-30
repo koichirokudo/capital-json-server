@@ -6,8 +6,8 @@
       "authType": 0,
       "userName": "Hisashi Mitsui",
       "cancel": "FALSE",
-      "create_at": "2022-12-01-11:00:01",
-      "update_at": "2022-12-01-11:00:01"
+      "createAt": "2022-12-01-11:00:01",
+      "updateAt": "2022-12-01-11:00:01"
     },
     {
       "id": 2,
@@ -15,8 +15,8 @@
       "authType": 0,
       "userName": "Ai Kawai",
       "cancel": "FALSE",
-      "create_at": "2022-12-01-11:10:01",
-      "update_at": "2022-12-01-11:10:01"
+      "createAt": "2022-12-01-11:10:01",
+      "updateAt": "2022-12-01-11:10:01"
     },
     {
       "id": 3,
@@ -24,8 +24,8 @@
       "authType": 0,
       "userName": "Hajime Sato",
       "cancel": "FALSE",
-      "create_at": "2022-12-01-12:00:01",
-      "update_at": "2022-12-01-12:00:01"
+      "createAt": "2022-12-01-12:00:01",
+      "updateAt": "2022-12-01-12:00:01"
     }
   ],
   "groups": [
@@ -35,8 +35,8 @@
       "participants": 2,
       "inviteId": "8flakdsfhaidfyasfkldjpad$&YJ",
       "startDay": 1,
-      "create_at": "2022-12-01-11:00:01",
-      "update_at": "2022-12-01-11:00:01"
+      "createAt": "2022-12-01-11:00:01",
+      "updateAt": "2022-12-01-11:00:01"
     },
     {
       "id": 2,
@@ -44,8 +44,8 @@
       "participants": 3,
       "inviteId": "f9adpdfdfjadaads8fh;gd7$&YJ",
       "startDay": 1,
-      "create_at": "2022-12-01-12:00:01",
-      "update_at": "2022-12-01-12:00:01"
+      "createAt": "2022-12-01-12:00:01",
+      "updateAt": "2022-12-01-12:00:01"
     }
   ],
   "capitals": [
@@ -54,56 +54,118 @@
       "userId": 1,
       "groupId": 1,
       "date": "2022-12-01-12:00:03",
-      "category_id": 1,
-      "category_type": 0,
+      "categoryId": 1,
+      "categoryType": 0,
       "note": "income",
       "money": 100,
       "settlement": "FALSE",
       "settlement_at": "",
-      "create_at": "2022-12-01-11:00:01",
-      "update_at": "2022-12-01-11:00:01"
+      "createAt": "2022-12-01-11:00:01",
+      "updateAt": "2022-12-01-11:00:01"
     },
     {
       "id": 1002,
-      "userId": 1,
+      "userId": 2,
       "groupId": 1,
       "date": "2022-12-01-12:00:03",
-      "category_id": 1,
-      "category_type": 0,
+      "categoryId": 1,
+      "categoryType": 0,
       "note": "income",
       "money": 300,
       "settlement": "FALSE",
       "settlement_at": "",
-      "create_at": "2022-12-01-11:00:01",
-      "update_at": "2022-12-01-11:00:01"
+      "createAt": "2022-12-01-11:00:01",
+      "updateAt": "2022-12-01-11:00:01"
     },
     {
       "id": 1003,
       "userId": 1,
       "groupId": 1,
       "date": "2022-12-01-12:00:03",
-      "category_id": 1,
-      "category_type": 0,
+      "categoryId": 1,
+      "categoryType": 0,
       "note": "income",
       "money": 200,
       "settlement": "FALSE",
       "settlement_at": "",
-      "create_at": "2022-12-01-11:00:01",
-      "update_at": "2022-12-01-11:00:01"
+      "createAt": "2022-12-01-11:00:01",
+      "updateAt": "2022-12-01-11:00:01"
     },
     {
       "id": 1004,
       "userId": 1,
-      "groupId": 1,
+      "groupId": 2,
       "date": "2022-12-01-12:00:03",
-      "category_id": 1,
-      "category_type": 0,
+      "categoryId": 1,
+      "categoryType": 0,
       "note": "income",
       "money": 500,
       "settlement": "FALSE",
       "settlement_at": "",
-      "create_at": "2022-12-01-11:00:01",
-      "update_at": "2022-12-01-11:00:01"
+      "createAt": "2022-12-01-11:00:01",
+      "updateAt": "2022-12-01-11:00:01"
+    }
+  ],
+  "capital-history": [
+    {
+      "id": 1001,
+      "status": 0,
+      "userId": 1,
+      "groupId": 1,
+      "date": "2022-12-01-12:00:03",
+      "categoryId": 1,
+      "categoryType": 0,
+      "note": "income",
+      "money": 100,
+      "settlement": "FALSE",
+      "settlement_at": "",
+      "createAt": "2022-12-01-11:00:01",
+      "updateAt": "2022-12-01-11:00:01"
+    },
+    {
+      "id": 1002,
+      "status": 1,
+      "userId": 2,
+      "groupId": 1,
+      "date": "2022-12-01-12:00:03",
+      "categoryId": 1,
+      "categoryType": 0,
+      "note": "income",
+      "money": 300,
+      "settlement": "FALSE",
+      "settlement_at": "",
+      "createAt": "2022-12-01-11:00:01",
+      "updateAt": "2022-12-01-11:00:01"
+    },
+    {
+      "id": 1003,
+      "status": 3,
+      "userId": 1,
+      "groupId": 1,
+      "date": "2022-12-01-12:00:03",
+      "categoryId": 1,
+      "categoryType": 0,
+      "note": "income",
+      "money": 200,
+      "settlement": "FALSE",
+      "settlement_at": "",
+      "createAt": "2022-12-01-11:00:01",
+      "updateAt": "2022-12-01-11:00:01"
+    },
+    {
+      "id": 1004,
+      "status": 4,
+      "userId": 1,
+      "groupId": 2,
+      "date": "2022-12-01-12:00:03",
+      "categoryId": 1,
+      "categoryType": 0,
+      "note": "income",
+      "money": 500,
+      "settlement": "FALSE",
+      "settlement_at": "",
+      "createAt": "2022-12-01-11:00:01",
+      "updateAt": "2022-12-01-11:00:01"
     }
   ]
 }
