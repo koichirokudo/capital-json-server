@@ -5,7 +5,7 @@
       "groupId": 1,
       "authType": 0,
       "userName": "Hisashi Mitsui",
-      "cancel": "FALSE",
+      "cancel": false,
       "createAt": "2022-12-01-11:00:01",
       "updateAt": "2022-12-01-11:00:01"
     },
@@ -14,7 +14,7 @@
       "groupId": 1,
       "authType": 0,
       "userName": "Ai Kawai",
-      "cancel": "FALSE",
+      "cancel": false,
       "createAt": "2022-12-01-11:10:01",
       "updateAt": "2022-12-01-11:10:01"
     },
@@ -23,7 +23,7 @@
       "groupId": 2,
       "authType": 0,
       "userName": "Hajime Sato",
-      "cancel": "FALSE",
+      "cancel": false,
       "createAt": "2022-12-01-12:00:01",
       "updateAt": "2022-12-01-12:00:01"
     },
@@ -32,7 +32,7 @@
       "groupId": 2,
       "authType": 0,
       "userName": "Yiki Sato",
-      "cancel": "FALSE",
+      "cancel": false,
       "createAt": "2022-12-01-12:00:01",
       "updateAt": "2022-12-01-12:00:01"
     }
@@ -68,7 +68,7 @@
       "categoryType": 0,
       "money": 5200,
       "note": "memo01",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:01",
       "updateAt": "2022-01-01-13:10:01"
@@ -83,7 +83,7 @@
       "categoryType": 0,
       "money": 1983,
       "note": "memo02",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:01",
       "updateAt": "2022-01-02-13:10:01"
@@ -98,7 +98,7 @@
       "categoryType": 0,
       "money": 2612,
       "note": "memo03",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:01",
       "updateAt": "2022-01-03-13:10:01"
@@ -113,7 +113,7 @@
       "categoryType": 0,
       "money": 876,
       "note": "memo04",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:02",
       "updateAt": "2022-01-01-13:10:02"
@@ -128,7 +128,7 @@
       "categoryType": 0,
       "money": 7480,
       "note": "memo05",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:02",
       "updateAt": "2022-01-02-13:10:02"
@@ -143,7 +143,7 @@
       "categoryType": 0,
       "money": 373,
       "note": "memo06",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:02",
       "updateAt": "2022-01-03-13:10:02"
@@ -158,7 +158,7 @@
       "categoryType": 0,
       "money": 756,
       "note": "memo07",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:03",
       "updateAt": "2022-01-01-13:10:03"
@@ -173,7 +173,7 @@
       "categoryType": 0,
       "money": 556,
       "note": "memo08",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:03",
       "updateAt": "2022-01-02-13:10:03"
@@ -188,7 +188,7 @@
       "categoryType": 0,
       "money": 1776,
       "note": "memo09",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:03",
       "updateAt": "2022-01-03-13:10:03"
@@ -203,7 +203,7 @@
       "categoryType": 0,
       "money": 774,
       "note": "memo10",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:04",
       "updateAt": "2022-01-01-13:10:04"
@@ -218,7 +218,7 @@
       "categoryType": 0,
       "money": 2336,
       "note": "memo11",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:04",
       "updateAt": "2022-01-02-13:10:04"
@@ -233,7 +233,7 @@
       "categoryType": 0,
       "money": 304,
       "note": "memo12",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:04",
       "updateAt": "2022-01-03-13:10:04"
@@ -248,7 +248,7 @@
       "categoryType": 0,
       "money": 1625,
       "note": "memo13",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:05",
       "updateAt": "2022-01-01-13:10:05"
@@ -263,7 +263,7 @@
       "categoryType": 0,
       "money": 42799,
       "note": "memo14",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:05",
       "updateAt": "2022-01-02-13:10:05"
@@ -278,7 +278,7 @@
       "categoryType": 0,
       "money": 1738,
       "note": "memo15",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:05",
       "updateAt": "2022-01-03-13:10:05"
@@ -293,7 +293,7 @@
       "categoryType": 0,
       "money": 3255,
       "note": "memo16",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:06",
       "updateAt": "2022-01-01-13:10:06"
@@ -308,7 +308,7 @@
       "categoryType": 0,
       "money": 220,
       "note": "memo17",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:06",
       "updateAt": "2022-01-02-13:10:06"
@@ -323,7 +323,7 @@
       "categoryType": 0,
       "money": 5600,
       "note": "memo18",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:06",
       "updateAt": "2022-01-03-13:10:06"
@@ -338,7 +338,7 @@
       "categoryType": 0,
       "money": 5500,
       "note": "memo19",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:07",
       "updateAt": "2022-01-01-13:10:07"
@@ -353,7 +353,7 @@
       "categoryType": 0,
       "money": 3600,
       "note": "memo20",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:07",
       "updateAt": "2022-01-02-13:10:07"
@@ -368,7 +368,7 @@
       "categoryType": 0,
       "money": 8772,
       "note": "memo21",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:07",
       "updateAt": "2022-01-03-13:10:07"
@@ -383,7 +383,7 @@
       "categoryType": 0,
       "money": 2600,
       "note": "memo22",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:08",
       "updateAt": "2022-01-01-13:10:08"
@@ -398,7 +398,7 @@
       "categoryType": 0,
       "money": 4343,
       "note": "memo23",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:08",
       "updateAt": "2022-01-02-13:10:08"
@@ -413,7 +413,7 @@
       "categoryType": 0,
       "money": 5594,
       "note": "memo24",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:08",
       "updateAt": "2022-01-03-13:10:08"
@@ -428,7 +428,7 @@
       "categoryType": 0,
       "money": 6894,
       "note": "memo25",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:09",
       "updateAt": "2022-01-01-13:10:09"
@@ -443,7 +443,7 @@
       "categoryType": 0,
       "money": 2080,
       "note": "memo26",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:09",
       "updateAt": "2022-01-02-13:10:09"
@@ -458,7 +458,7 @@
       "categoryType": 0,
       "money": 3446,
       "note": "memo27",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:09",
       "updateAt": "2022-01-03-13:10:09"
@@ -473,7 +473,7 @@
       "categoryType": 0,
       "money": 6000,
       "note": "memo28",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:10",
       "updateAt": "2022-01-01-13:10:10"
@@ -488,7 +488,7 @@
       "categoryType": 0,
       "money": 8502,
       "note": "memo29",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:10",
       "updateAt": "2022-01-02-13:10:10"
@@ -503,7 +503,7 @@
       "categoryType": 0,
       "money": 2550,
       "note": "memo30",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:10",
       "updateAt": "2022-01-03-13:10:10"
@@ -518,7 +518,7 @@
       "categoryType": 0,
       "money": 1870,
       "note": "memo31",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:11",
       "updateAt": "2022-01-01-13:10:11"
@@ -533,7 +533,7 @@
       "categoryType": 0,
       "money": 5542,
       "note": "memo32",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:11",
       "updateAt": "2022-01-02-13:10:11"
@@ -548,7 +548,7 @@
       "categoryType": 0,
       "money": 437,
       "note": "memo33",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:11",
       "updateAt": "2022-01-03-13:10:11"
@@ -563,7 +563,7 @@
       "categoryType": 0,
       "money": 3022,
       "note": "memo34",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:12",
       "updateAt": "2022-01-01-13:10:12"
@@ -578,7 +578,7 @@
       "categoryType": 0,
       "money": 1560,
       "note": "memo35",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:12",
       "updateAt": "2022-01-02-13:10:12"
@@ -593,7 +593,7 @@
       "categoryType": 0,
       "money": 2600,
       "note": "memo36",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:12",
       "updateAt": "2022-01-03-13:10:12"
@@ -608,7 +608,7 @@
       "categoryType": 1,
       "money": 400000,
       "note": "memo37",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:12",
       "updateAt": "2022-01-03-13:10:12"
@@ -623,7 +623,7 @@
       "categoryType": 1,
       "money": 500000,
       "note": "memo36",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:12",
       "updateAt": "2022-01-03-13:10:12"
@@ -638,7 +638,7 @@
       "categoryType": 0,
       "money": 6060,
       "note": "memo01",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:01",
       "updateAt": "2022-02-01-13:10:01"
@@ -653,7 +653,7 @@
       "categoryType": 0,
       "money": 6126,
       "note": "memo02",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:01",
       "updateAt": "2022-02-02-13:10:01"
@@ -668,7 +668,7 @@
       "categoryType": 0,
       "money": 1878,
       "note": "memo03",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:01",
       "updateAt": "2022-02-01-13:10:02"
@@ -683,7 +683,7 @@
       "categoryType": 0,
       "money": 6050,
       "note": "memo04",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:02",
       "updateAt": "2022-02-02-13:10:02"
@@ -698,7 +698,7 @@
       "categoryType": 0,
       "money": 9485,
       "note": "memo05",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:02",
       "updateAt": "2022-02-01-13:10:03"
@@ -713,7 +713,7 @@
       "categoryType": 0,
       "money": 330,
       "note": "memo06",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:02",
       "updateAt": "2022-02-02-13:10:03"
@@ -728,7 +728,7 @@
       "categoryType": 0,
       "money": 6487,
       "note": "memo07",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:03",
       "updateAt": "2022-02-01-13:10:04"
@@ -743,7 +743,7 @@
       "categoryType": 0,
       "money": 6050,
       "note": "memo08",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:03",
       "updateAt": "2022-02-02-13:10:04"
@@ -758,7 +758,7 @@
       "categoryType": 0,
       "money": 6050,
       "note": "memo09",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:03",
       "updateAt": "2022-02-01-13:10:05"
@@ -773,7 +773,7 @@
       "categoryType": 0,
       "money": 2500,
       "note": "memo10",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:04",
       "updateAt": "2022-02-02-13:10:05"
@@ -788,7 +788,7 @@
       "categoryType": 0,
       "money": 6544,
       "note": "memo11",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:04",
       "updateAt": "2022-02-01-13:10:06"
@@ -803,7 +803,7 @@
       "categoryType": 0,
       "money": 4014,
       "note": "memo12",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:04",
       "updateAt": "2022-02-02-13:10:06"
@@ -818,7 +818,7 @@
       "categoryType": 0,
       "money": 3258,
       "note": "memo13",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:05",
       "updateAt": "2022-02-01-13:10:07"
@@ -833,7 +833,7 @@
       "categoryType": 0,
       "money": 1355,
       "note": "memo14",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:05",
       "updateAt": "2022-02-02-13:10:07"
@@ -848,7 +848,7 @@
       "categoryType": 0,
       "money": 6859,
       "note": "memo15",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:05",
       "updateAt": "2022-02-01-13:10:08"
@@ -863,7 +863,7 @@
       "categoryType": 0,
       "money": 585,
       "note": "memo16",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:06",
       "updateAt": "2022-02-02-13:10:08"
@@ -878,7 +878,7 @@
       "categoryType": 0,
       "money": 1246,
       "note": "memo17",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:06",
       "updateAt": "2022-02-01-13:10:09"
@@ -893,7 +893,7 @@
       "categoryType": 0,
       "money": 5500,
       "note": "memo18",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:06",
       "updateAt": "2022-02-02-13:10:09"
@@ -908,7 +908,7 @@
       "categoryType": 0,
       "money": 840,
       "note": "memo19",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:07",
       "updateAt": "2022-02-01-13:10:10"
@@ -923,7 +923,7 @@
       "categoryType": 0,
       "money": 1000,
       "note": "memo20",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:07",
       "updateAt": "2022-02-02-13:10:10"
@@ -938,7 +938,7 @@
       "categoryType": 0,
       "money": 1026,
       "note": "memo21",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:07",
       "updateAt": "2022-02-01-13:10:11"
@@ -953,7 +953,7 @@
       "categoryType": 0,
       "money": 1028,
       "note": "memo22",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:08",
       "updateAt": "2022-02-02-13:10:11"
@@ -968,7 +968,7 @@
       "categoryType": 0,
       "money": 594,
       "note": "memo23",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:08",
       "updateAt": "2022-02-01-13:10:12"
@@ -983,7 +983,7 @@
       "categoryType": 0,
       "money": 6904,
       "note": "memo24",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:08",
       "updateAt": "2022-02-02-13:10:12"
@@ -998,7 +998,7 @@
       "categoryType": 0,
       "money": 628,
       "note": "memo25",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:09",
       "updateAt": "2022-02-01-13:10:13"
@@ -1013,7 +1013,7 @@
       "categoryType": 0,
       "money": 605,
       "note": "memo26",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:09",
       "updateAt": "2022-02-02-13:10:13"
@@ -1028,7 +1028,7 @@
       "categoryType": 0,
       "money": 587,
       "note": "memo27",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:09",
       "updateAt": "2022-02-01-13:10:14"
@@ -1043,7 +1043,7 @@
       "categoryType": 0,
       "money": 1019,
       "note": "memo28",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:10",
       "updateAt": "2022-02-02-13:10:14"
@@ -1058,7 +1058,7 @@
       "categoryType": 0,
       "money": 638,
       "note": "memo29",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:10",
       "updateAt": "2022-02-01-13:10:15"
@@ -1073,7 +1073,7 @@
       "categoryType": 0,
       "money": 537,
       "note": "memo30",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:10",
       "updateAt": "2022-02-02-13:10:15"
@@ -1088,7 +1088,7 @@
       "categoryType": 0,
       "money": 2662,
       "note": "memo31",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:11",
       "updateAt": "2022-02-01-13:10:16"
@@ -1103,7 +1103,7 @@
       "categoryType": 0,
       "money": 621,
       "note": "memo32",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:11",
       "updateAt": "2022-02-02-13:10:16"
@@ -1118,7 +1118,7 @@
       "categoryType": 0,
       "money": 1440,
       "note": "memo33",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:11",
       "updateAt": "2022-02-01-13:10:17"
@@ -1133,7 +1133,7 @@
       "categoryType": 0,
       "money": 680,
       "note": "memo34",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:12",
       "updateAt": "2022-02-02-13:10:17"
@@ -1148,7 +1148,7 @@
       "categoryType": 0,
       "money": 720,
       "note": "memo35",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:12",
       "updateAt": "2022-02-01-13:10:18"
@@ -1163,7 +1163,7 @@
       "categoryType": 0,
       "money": 2560,
       "note": "memo36",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:12",
       "updateAt": "2022-02-02-13:10:18"
@@ -1178,7 +1178,7 @@
       "categoryType": 1,
       "money": 420000,
       "note": "memo37",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:12",
       "updateAt": "2022-02-01-13:10:19"
@@ -1193,7 +1193,7 @@
       "categoryType": 1,
       "money": 470000,
       "note": "memo36",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:12",
       "updateAt": "2022-02-02-13:10:19"
@@ -1210,7 +1210,7 @@
       "categoryType": 0,
       "money": 5200,
       "note": "memo01",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:01",
       "updateAt": "2022-01-01-13:10:01"
@@ -1225,7 +1225,7 @@
       "categoryType": 0,
       "money": 1983,
       "note": "memo02",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:01",
       "updateAt": "2022-01-02-13:10:01"
@@ -1240,7 +1240,7 @@
       "categoryType": 0,
       "money": 2612,
       "note": "memo03",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:01",
       "updateAt": "2022-01-03-13:10:01"
@@ -1255,7 +1255,7 @@
       "categoryType": 0,
       "money": 876,
       "note": "memo04",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:02",
       "updateAt": "2022-01-01-13:10:02"
@@ -1270,7 +1270,7 @@
       "categoryType": 0,
       "money": 7480,
       "note": "memo05",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:02",
       "updateAt": "2022-01-02-13:10:02"
@@ -1285,7 +1285,7 @@
       "categoryType": 0,
       "money": 373,
       "note": "memo06",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:02",
       "updateAt": "2022-01-03-13:10:02"
@@ -1300,7 +1300,7 @@
       "categoryType": 0,
       "money": 756,
       "note": "memo07",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:03",
       "updateAt": "2022-01-01-13:10:03"
@@ -1315,7 +1315,7 @@
       "categoryType": 0,
       "money": 556,
       "note": "memo08",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:03",
       "updateAt": "2022-01-02-13:10:03"
@@ -1330,7 +1330,7 @@
       "categoryType": 0,
       "money": 1776,
       "note": "memo09",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:03",
       "updateAt": "2022-01-03-13:10:03"
@@ -1345,7 +1345,7 @@
       "categoryType": 0,
       "money": 774,
       "note": "memo10",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:04",
       "updateAt": "2022-01-01-13:10:04"
@@ -1360,7 +1360,7 @@
       "categoryType": 0,
       "money": 2336,
       "note": "memo11",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:04",
       "updateAt": "2022-01-02-13:10:04"
@@ -1375,7 +1375,7 @@
       "categoryType": 0,
       "money": 304,
       "note": "memo12",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:04",
       "updateAt": "2022-01-03-13:10:04"
@@ -1390,7 +1390,7 @@
       "categoryType": 0,
       "money": 1625,
       "note": "memo13",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:05",
       "updateAt": "2022-01-01-13:10:05"
@@ -1405,7 +1405,7 @@
       "categoryType": 0,
       "money": 42799,
       "note": "memo14",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:05",
       "updateAt": "2022-01-02-13:10:05"
@@ -1420,7 +1420,7 @@
       "categoryType": 0,
       "money": 1738,
       "note": "memo15",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:05",
       "updateAt": "2022-01-03-13:10:05"
@@ -1435,7 +1435,7 @@
       "categoryType": 0,
       "money": 3255,
       "note": "memo16",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:06",
       "updateAt": "2022-01-01-13:10:06"
@@ -1450,7 +1450,7 @@
       "categoryType": 0,
       "money": 220,
       "note": "memo17",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:06",
       "updateAt": "2022-01-02-13:10:06"
@@ -1465,7 +1465,7 @@
       "categoryType": 0,
       "money": 5600,
       "note": "memo18",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:06",
       "updateAt": "2022-01-03-13:10:06"
@@ -1480,7 +1480,7 @@
       "categoryType": 0,
       "money": 5500,
       "note": "memo19",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:07",
       "updateAt": "2022-01-01-13:10:07"
@@ -1495,7 +1495,7 @@
       "categoryType": 0,
       "money": 3600,
       "note": "memo20",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:07",
       "updateAt": "2022-01-02-13:10:07"
@@ -1510,7 +1510,7 @@
       "categoryType": 0,
       "money": 8772,
       "note": "memo21",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:07",
       "updateAt": "2022-01-03-13:10:07"
@@ -1525,7 +1525,7 @@
       "categoryType": 0,
       "money": 2600,
       "note": "memo22",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:08",
       "updateAt": "2022-01-01-13:10:08"
@@ -1540,7 +1540,7 @@
       "categoryType": 0,
       "money": 4343,
       "note": "memo23",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:08",
       "updateAt": "2022-01-02-13:10:08"
@@ -1555,7 +1555,7 @@
       "categoryType": 0,
       "money": 5594,
       "note": "memo24",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:08",
       "updateAt": "2022-01-03-13:10:08"
@@ -1570,7 +1570,7 @@
       "categoryType": 0,
       "money": 6894,
       "note": "memo25",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:09",
       "updateAt": "2022-01-01-13:10:09"
@@ -1585,7 +1585,7 @@
       "categoryType": 0,
       "money": 2080,
       "note": "memo26",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:09",
       "updateAt": "2022-01-02-13:10:09"
@@ -1600,7 +1600,7 @@
       "categoryType": 0,
       "money": 3446,
       "note": "memo27",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:09",
       "updateAt": "2022-01-03-13:10:09"
@@ -1615,7 +1615,7 @@
       "categoryType": 0,
       "money": 6000,
       "note": "memo28",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:10",
       "updateAt": "2022-01-01-13:10:10"
@@ -1630,7 +1630,7 @@
       "categoryType": 0,
       "money": 8502,
       "note": "memo29",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:10",
       "updateAt": "2022-01-02-13:10:10"
@@ -1645,7 +1645,7 @@
       "categoryType": 0,
       "money": 2550,
       "note": "memo30",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:10",
       "updateAt": "2022-01-03-13:10:10"
@@ -1660,7 +1660,7 @@
       "categoryType": 0,
       "money": 1870,
       "note": "memo31",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:11",
       "updateAt": "2022-01-01-13:10:11"
@@ -1675,7 +1675,7 @@
       "categoryType": 0,
       "money": 5542,
       "note": "memo32",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:11",
       "updateAt": "2022-01-02-13:10:11"
@@ -1690,7 +1690,7 @@
       "categoryType": 0,
       "money": 437,
       "note": "memo33",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:11",
       "updateAt": "2022-01-03-13:10:11"
@@ -1705,7 +1705,7 @@
       "categoryType": 0,
       "money": 3022,
       "note": "memo34",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-01-13:10:12",
       "updateAt": "2022-01-01-13:10:12"
@@ -1720,7 +1720,7 @@
       "categoryType": 0,
       "money": 1560,
       "note": "memo35",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-02-13:10:12",
       "updateAt": "2022-01-02-13:10:12"
@@ -1735,7 +1735,7 @@
       "categoryType": 0,
       "money": 2600,
       "note": "memo36",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:12",
       "updateAt": "2022-01-03-13:10:12"
@@ -1750,7 +1750,7 @@
       "categoryType": 1,
       "money": 400000,
       "note": "memo37",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:12",
       "updateAt": "2022-01-03-13:10:12"
@@ -1765,7 +1765,7 @@
       "categoryType": 1,
       "money": 500000,
       "note": "memo36",
-      "settlement": "TRUE",
+      "settlement": true,
       "settlementAt": "2022-01-29-19:25:06",
       "createAt": "2022-01-03-13:10:12",
       "updateAt": "2022-01-03-13:10:12"
@@ -1780,7 +1780,7 @@
       "categoryType": 0,
       "money": 6060,
       "note": "memo01",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:01",
       "updateAt": "2022-02-01-13:10:01"
@@ -1795,7 +1795,7 @@
       "categoryType": 0,
       "money": 6126,
       "note": "memo02",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:01",
       "updateAt": "2022-02-02-13:10:01"
@@ -1810,7 +1810,7 @@
       "categoryType": 0,
       "money": 1878,
       "note": "memo03",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:01",
       "updateAt": "2022-02-01-13:10:02"
@@ -1825,7 +1825,7 @@
       "categoryType": 0,
       "money": 6050,
       "note": "memo04",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:02",
       "updateAt": "2022-02-02-13:10:02"
@@ -1840,7 +1840,7 @@
       "categoryType": 0,
       "money": 9485,
       "note": "memo05",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:02",
       "updateAt": "2022-02-01-13:10:03"
@@ -1855,7 +1855,7 @@
       "categoryType": 0,
       "money": 330,
       "note": "memo06",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:02",
       "updateAt": "2022-02-02-13:10:03"
@@ -1870,7 +1870,7 @@
       "categoryType": 0,
       "money": 6487,
       "note": "memo07",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:03",
       "updateAt": "2022-02-01-13:10:04"
@@ -1885,7 +1885,7 @@
       "categoryType": 0,
       "money": 6050,
       "note": "memo08",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:03",
       "updateAt": "2022-02-02-13:10:04"
@@ -1900,7 +1900,7 @@
       "categoryType": 0,
       "money": 6050,
       "note": "memo09",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:03",
       "updateAt": "2022-02-01-13:10:05"
@@ -1915,7 +1915,7 @@
       "categoryType": 0,
       "money": 2500,
       "note": "memo10",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:04",
       "updateAt": "2022-02-02-13:10:05"
@@ -1930,7 +1930,7 @@
       "categoryType": 0,
       "money": 6544,
       "note": "memo11",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:04",
       "updateAt": "2022-02-01-13:10:06"
@@ -1945,7 +1945,7 @@
       "categoryType": 0,
       "money": 4014,
       "note": "memo12",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:04",
       "updateAt": "2022-02-02-13:10:06"
@@ -1960,7 +1960,7 @@
       "categoryType": 0,
       "money": 3258,
       "note": "memo13",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:05",
       "updateAt": "2022-02-01-13:10:07"
@@ -1975,7 +1975,7 @@
       "categoryType": 0,
       "money": 1355,
       "note": "memo14",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:05",
       "updateAt": "2022-02-02-13:10:07"
@@ -1990,7 +1990,7 @@
       "categoryType": 0,
       "money": 6859,
       "note": "memo15",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:05",
       "updateAt": "2022-02-01-13:10:08"
@@ -2005,7 +2005,7 @@
       "categoryType": 0,
       "money": 585,
       "note": "memo16",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:06",
       "updateAt": "2022-02-02-13:10:08"
@@ -2020,7 +2020,7 @@
       "categoryType": 0,
       "money": 1246,
       "note": "memo17",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:06",
       "updateAt": "2022-02-01-13:10:09"
@@ -2035,7 +2035,7 @@
       "categoryType": 0,
       "money": 5500,
       "note": "memo18",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:06",
       "updateAt": "2022-02-02-13:10:09"
@@ -2050,7 +2050,7 @@
       "categoryType": 0,
       "money": 840,
       "note": "memo19",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:07",
       "updateAt": "2022-02-01-13:10:10"
@@ -2065,7 +2065,7 @@
       "categoryType": 0,
       "money": 1000,
       "note": "memo20",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:07",
       "updateAt": "2022-02-02-13:10:10"
@@ -2080,7 +2080,7 @@
       "categoryType": 0,
       "money": 1026,
       "note": "memo21",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:07",
       "updateAt": "2022-02-01-13:10:11"
@@ -2095,7 +2095,7 @@
       "categoryType": 0,
       "money": 1028,
       "note": "memo22",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:08",
       "updateAt": "2022-02-02-13:10:11"
@@ -2110,7 +2110,7 @@
       "categoryType": 0,
       "money": 594,
       "note": "memo23",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:08",
       "updateAt": "2022-02-01-13:10:12"
@@ -2125,7 +2125,7 @@
       "categoryType": 0,
       "money": 6904,
       "note": "memo24",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:08",
       "updateAt": "2022-02-02-13:10:12"
@@ -2140,7 +2140,7 @@
       "categoryType": 0,
       "money": 628,
       "note": "memo25",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:09",
       "updateAt": "2022-02-01-13:10:13"
@@ -2155,7 +2155,7 @@
       "categoryType": 0,
       "money": 605,
       "note": "memo26",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:09",
       "updateAt": "2022-02-02-13:10:13"
@@ -2170,7 +2170,7 @@
       "categoryType": 0,
       "money": 587,
       "note": "memo27",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:09",
       "updateAt": "2022-02-01-13:10:14"
@@ -2185,7 +2185,7 @@
       "categoryType": 0,
       "money": 1019,
       "note": "memo28",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:10",
       "updateAt": "2022-02-02-13:10:14"
@@ -2200,7 +2200,7 @@
       "categoryType": 0,
       "money": 638,
       "note": "memo29",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:10",
       "updateAt": "2022-02-01-13:10:15"
@@ -2215,7 +2215,7 @@
       "categoryType": 0,
       "money": 537,
       "note": "memo30",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:10",
       "updateAt": "2022-02-02-13:10:15"
@@ -2230,7 +2230,7 @@
       "categoryType": 0,
       "money": 2662,
       "note": "memo31",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:11",
       "updateAt": "2022-02-01-13:10:16"
@@ -2245,7 +2245,7 @@
       "categoryType": 0,
       "money": 621,
       "note": "memo32",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:11",
       "updateAt": "2022-02-02-13:10:16"
@@ -2260,7 +2260,7 @@
       "categoryType": 0,
       "money": 1440,
       "note": "memo33",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:11",
       "updateAt": "2022-02-01-13:10:17"
@@ -2275,7 +2275,7 @@
       "categoryType": 0,
       "money": 680,
       "note": "memo34",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-01-13:10:12",
       "updateAt": "2022-02-02-13:10:17"
@@ -2290,7 +2290,7 @@
       "categoryType": 0,
       "money": 720,
       "note": "memo35",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-02-13:10:12",
       "updateAt": "2022-02-01-13:10:18"
@@ -2305,7 +2305,7 @@
       "categoryType": 0,
       "money": 2560,
       "note": "memo36",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:12",
       "updateAt": "2022-02-02-13:10:18"
@@ -2320,7 +2320,7 @@
       "categoryType": 1,
       "money": 420000,
       "note": "memo37",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:12",
       "updateAt": "2022-02-01-13:10:19"
@@ -2335,7 +2335,7 @@
       "categoryType": 1,
       "money": 470000,
       "note": "memo36",
-      "settlement": "FALSE",
+      "settlement": false,
       "settlementAt": "",
       "createAt": "2022-01-03-13:10:12",
       "updateAt": "2022-02-02-13:10:19"
