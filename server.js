@@ -52,7 +52,7 @@ server.post("/auth/logout", (req, res) => {
 
 // 収支登録
 server.post("/capitals", (req, res) => {
-  if (req.cookie["token"] !== "dummy_token") {
+  if (req.cookies["token"] !== "dummy_token") {
     return res.status(401).json({
       message: "unauthorized",
     });
@@ -65,7 +65,7 @@ server.post("/capitals", (req, res) => {
 
 // ユーザー登録
 server.post("/users", (req, res) => {
-  if (req.cookie["token"] !== "dummy_token") {
+  if (req.cookies["token"] !== "dummy_token") {
     return res.status(401).json({
       message: "unauthorized",
     });
