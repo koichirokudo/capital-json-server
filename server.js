@@ -21,6 +21,7 @@ const authUser = {
 
 server.use(cookieParser());
 server.use(express.json());
+server.use(jsonServer.bodyParser);
 
 // ログイン
 server.post("/auth/login", (req, res) => {
