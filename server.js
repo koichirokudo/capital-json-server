@@ -1,7 +1,6 @@
 const process = require("process");
 const jsonServer = require("json-server");
 const cookieParser = require("cookie-parser");
-const cors = require("cors");
 const express = require("express");
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
@@ -10,6 +9,18 @@ const port = process.env.PORT || 8000;
 const authUser = {
   id: 1,
   groupId: 1,
+  authType: 0,
+  username: "Hisashi Mitsui",
+  password: "test",
+  email: "example@example.com",
+  cancel: false,
+  create_at: "2022-12-01-11:00:01",
+  update_at: "2022-12-01-11:00:01",
+};
+
+const authUser2 = {
+  id: 3,
+  groupId: 2,
   authType: 0,
   username: "Hisashi Mitsui",
   password: "test",
@@ -79,11 +90,11 @@ server.post("/users", (req, res) => {
 
 // 認証済みユーザー取得
 server.get("/users/me", (req, res) => {
-  if (req.cookies["token"] !== "dummy_token") {
-    return res.status(401).json({
-      message: "Unauthorized",
-    });
-  }
+  // if (req.cookies["token"] !== "dummy_token") {
+  //   return res.status(401).json({
+  //     message: "unauthorized",
+  //   });
+  // }
 
   res.status(200).json(authUser);
 });
